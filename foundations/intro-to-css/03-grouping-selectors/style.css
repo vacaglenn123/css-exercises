@@ -1,1 +1,26 @@
-/* Add CSS Styling */
+.clickable {
+    background-color: black;
+    color: white;
+}
+
+.unclickable {
+    background: yellow;
+}
+
+
+.clickable, .unclickable {
+    font-size: 28px;
+    font-family: "Helvetica", "Times New Roman" sars-serif;
+
+}
+
+
+
+
+
+
+
+
+
+
+
